@@ -78,8 +78,7 @@ As an alternative you can run a Docker image instead, which will ensure the imag
 is available locally:
 
 ```sh
-$ docker build -t liip/the-a11y-machine .
-$ docker run liip/the-a11y-machine --help
+$ docker run esteinborn/the-a11y-machine --help
 ```
 
 To get access to a report you will need to:
